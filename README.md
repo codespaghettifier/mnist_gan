@@ -1,0 +1,1 @@
+GAN trained on MNIST dataset. A demo for SSN, WFiIS AGH.
